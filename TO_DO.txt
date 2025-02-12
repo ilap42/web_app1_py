@@ -1,0 +1,5 @@
+Return the books 
+Help the neighbour
+Do the Diner
+Go to Home
+Go to the Gym
